@@ -5,6 +5,7 @@
 /vendor
 .env
 .htaccess
+/public/.htaccess
 .env.backup
 .phpunit.result.cache
 Homestead.json
